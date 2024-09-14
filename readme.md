@@ -10,7 +10,7 @@ environment.yml
 
 Download bert-base-cased and save in ./save_models: https://huggingface.co/bert-base-cased
 
-AG_news: Already provided in directory ./data/AG_news/
+AG_news: https://huggingface.co/datasets/fancyzhx/ag_news/tree/main/data
 
 dbpedia14: https://huggingface.co/datasets/dbpedia_14
 
