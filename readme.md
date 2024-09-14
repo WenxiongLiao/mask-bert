@@ -1,4 +1,4 @@
-#  Mask-guided BERT for Few Shot Text Classification ACL2023 paper
+#  Mask-guided BERT for Few Shot Text Classification Neurocomputing paper
 
 ## 1. software environment
 
