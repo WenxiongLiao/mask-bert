@@ -1,4 +1,4 @@
-#  Mask-guided BERT for Few Shot Text Classification Neurocomputing paper
+#  Mask-guided BERT for Few Shot Text Classification ACL2023 paper
 
 ## 1. software environment
 
@@ -10,7 +10,7 @@ environment.yml
 
 Download bert-base-cased and save in ./save_models: https://huggingface.co/bert-base-cased
 
-AG_news: https://huggingface.co/datasets/fancyzhx/ag_news/tree/main/data
+AG_news: Already provided in directory https://huggingface.co/datasets/fancyzhx/ag_news
 
 dbpedia14: https://huggingface.co/datasets/dbpedia_14
 
@@ -25,5 +25,5 @@ PubMed20k: https://github.com/Franck-Dernoncourt/pubmed-rct
 
 ## Few-shot learning
 ```
-The scripts in folder ./scripts/
+python mask_bert.py
 ```

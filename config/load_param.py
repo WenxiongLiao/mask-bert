@@ -3,7 +3,7 @@ def load_parameter(args):
 
 	#common parameter 
 
-	args.model_checkpoint = "./save_models/bert-base-uncased"
+	args.model_checkpoint = "./save_models/bert-base-cased"
 
 	args.is_AL = False
 	args.is_continuous = False

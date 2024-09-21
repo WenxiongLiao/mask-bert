@@ -32,7 +32,6 @@ from sklearn.manifold import TSNE
 import umap
 
 
-from active_learning.AL import AL_detect,get_feature
 from build_model.adamW import AdamW
 
 
